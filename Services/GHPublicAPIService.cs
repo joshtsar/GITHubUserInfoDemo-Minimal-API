@@ -48,7 +48,7 @@ namespace MinimalAPIDemoByJiahuaTong.Services
                 httpClient.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/vnd.github+json"));
                 httpClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", _config["GitHubToken"]);
 
-                var httpRespMessage = await httpClient.GetAsync(requestUri);
+                var httpRespMessage = await httpClient.GetAsync(requestUri).ConfigureAwait(false);
                 //var resp = httpRespMessage.EnsureSuccessStatusCode();
                 if (httpRespMessage.IsSuccessStatusCode == false && httpRespMessage.StatusCode == HttpStatusCode.NotFound)
                 {
@@ -56,8 +56,8 @@ namespace MinimalAPIDemoByJiahuaTong.Services
                     continue;
                 }
 
-                using var contentStream = await httpRespMessage.Content.ReadAsStreamAsync();
-                var usrInfo = await GetUserInfoAsync(contentStream);
+                using var contentStream = await httpRespMessage.Content.ReadAsStreamAsync().ConfigureAwait(false);
+                var usrInfo = await GetUserInfoAsync(contentStream).ConfigureAwait(false);
                 if (usrInfo != null)
                     GHUserInfoList.Add(usrInfo);
             };
@@ -75,7 +75,7 @@ namespace MinimalAPIDemoByJiahuaTong.Services
 
             using (var reader = new StreamReader(contentStream))
             {
-                usrStr = await reader.ReadToEndAsync();
+                usrStr = await reader.ReadToEndAsync().ConfigureAwait(false);
             }
 
             var usrInfo = JsonConvert.DeserializeObject<GithubUserInfo>(usrStr);
