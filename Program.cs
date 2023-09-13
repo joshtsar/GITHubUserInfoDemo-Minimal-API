@@ -67,17 +67,6 @@ else
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-    // Enable middleware to serve Swagger-UI (HTML, JS, CSS, etc.) by specifying the Swagger JSON endpoint(s).
-    //var descriptionProvider = app.Services.GetRequiredService<IApiVersionDescriptionProvider>();
-    //app.UseSwaggerUI(options =>
-    //{
-    //    // Build a swagger endpoint for each discovered API version
-    //    foreach (var description in descriptionProvider.ApiVersionDescriptions)
-    //    {
-    //        options.SwaggerEndpoint($"{description.GroupName}/swagger.json", description.GroupName.ToUpperInvariant());
-    //    }
-    //});
-
 }
 
 app.UseMiddleware<ExceptionHandlerMiddleware>();
