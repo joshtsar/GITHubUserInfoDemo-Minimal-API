@@ -1,0 +1,82 @@
+2023-09-12 16:32:17.565 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 16:32:18.475 +10:00 [INF] Hosting environment: Development
+2023-09-12 16:32:18.478 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 17:50:59.157 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 17:50:59.221 +10:00 [INF] Hosting environment: Development
+2023-09-12 17:50:59.224 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 17:52:04.135 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 17:52:04.178 +10:00 [INF] Hosting environment: Development
+2023-09-12 17:52:04.181 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 17:53:50.534 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 17:53:50.583 +10:00 [INF] Hosting environment: Development
+2023-09-12 17:53:50.585 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 17:57:41.817 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 17:57:41.865 +10:00 [INF] Hosting environment: Development
+2023-09-12 17:57:41.869 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 18:00:13.306 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 18:00:13.347 +10:00 [INF] Hosting environment: Development
+2023-09-12 18:00:13.349 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 18:26:44.416 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 18:26:44.472 +10:00 [INF] Hosting environment: Development
+2023-09-12 18:26:44.476 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 19:38:13.886 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 19:38:13.938 +10:00 [INF] Hosting environment: Development
+2023-09-12 19:38:13.941 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 20:05:43.084 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 20:05:43.130 +10:00 [INF] Hosting environment: Development
+2023-09-12 20:05:43.133 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 20:28:32.025 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 20:28:32.102 +10:00 [INF] Hosting environment: Development
+2023-09-12 20:28:32.108 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 21:32:49.783 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 21:32:49.846 +10:00 [INF] Hosting environment: Development
+2023-09-12 21:32:49.850 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 21:45:11.017 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 21:45:11.071 +10:00 [INF] Hosting environment: Development
+2023-09-12 21:45:11.074 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 21:46:02.902 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/tony
+2023-09-12 21:46:02.906 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/tony
+2023-09-12 21:46:03.521 +10:00 [INF] Received HTTP response headers after 607.9794ms - 200
+2023-09-12 21:46:03.524 +10:00 [INF] End processing HTTP request after 628.4498ms - 200
+2023-09-12 21:46:06.678 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/tom
+2023-09-12 21:46:06.679 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/tom
+2023-09-12 21:46:06.974 +10:00 [INF] Received HTTP response headers after 290.9759ms - 200
+2023-09-12 21:46:06.978 +10:00 [INF] End processing HTTP request after 298.4765ms - 200
+2023-09-12 21:53:54.670 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 21:53:54.705 +10:00 [INF] Hosting environment: Development
+2023-09-12 21:53:54.708 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 21:55:25.823 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 21:55:25.857 +10:00 [INF] Hosting environment: Development
+2023-09-12 21:55:25.859 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 21:59:28.878 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 21:59:28.916 +10:00 [INF] Hosting environment: Development
+2023-09-12 21:59:28.918 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 22:02:10.757 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 22:02:10.804 +10:00 [INF] Hosting environment: Development
+2023-09-12 22:02:10.807 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 22:04:42.908 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 22:04:42.949 +10:00 [INF] Hosting environment: Development
+2023-09-12 22:04:42.951 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 22:05:03.509 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/lau
+2023-09-12 22:05:03.513 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/lau
+2023-09-12 22:05:04.047 +10:00 [INF] Received HTTP response headers after 520.6432ms - 200
+2023-09-12 22:05:04.053 +10:00 [INF] End processing HTTP request after 550.1344ms - 200
+2023-09-12 22:05:04.232 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/eric
+2023-09-12 22:05:04.234 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/eric
+2023-09-12 22:05:04.521 +10:00 [INF] Received HTTP response headers after 284.4756ms - 200
+2023-09-12 22:05:04.524 +10:00 [INF] End processing HTTP request after 292.3204ms - 200
+2023-09-12 22:08:23.453 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 22:08:23.512 +10:00 [INF] Hosting environment: Development
+2023-09-12 22:08:23.516 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 22:12:20.267 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 22:12:20.302 +10:00 [INF] Hosting environment: Development
+2023-09-12 22:12:20.305 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 22:16:53.968 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 22:16:54.002 +10:00 [INF] Hosting environment: Development
+2023-09-12 22:16:54.004 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 22:25:06.180 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 22:25:06.217 +10:00 [INF] Hosting environment: Development
+2023-09-12 22:25:06.219 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-12 22:27:09.498 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 22:27:09.533 +10:00 [INF] Hosting environment: Development
+2023-09-12 22:27:09.536 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong

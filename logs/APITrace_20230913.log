@@ -1,0 +1,197 @@
+2023-09-13 14:33:50.410 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 14:33:50.587 +10:00 [INF] Hosting environment: Development
+2023-09-13 14:33:50.596 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 14:34:14.440 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/tony
+2023-09-13 14:34:14.452 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/tony
+2023-09-13 14:34:15.224 +10:00 [INF] Received HTTP response headers after 743.769ms - 200
+2023-09-13 14:34:15.236 +10:00 [INF] End processing HTTP request after 821.3726ms - 200
+2023-09-13 14:34:15.933 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/apple
+2023-09-13 14:34:15.939 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/apple
+2023-09-13 14:34:16.223 +10:00 [INF] Received HTTP response headers after 278.7057ms - 200
+2023-09-13 14:34:16.228 +10:00 [INF] End processing HTTP request after 296.3104ms - 200
+2023-09-13 14:35:07.794 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/xxx
+2023-09-13 14:35:07.802 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/xxx
+2023-09-13 14:35:08.132 +10:00 [INF] Received HTTP response headers after 321.0332ms - 200
+2023-09-13 14:35:08.139 +10:00 [INF] End processing HTTP request after 349.2547ms - 200
+2023-09-13 14:49:01.761 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/xxx;yyy
+2023-09-13 14:49:01.772 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/xxx;yyy
+2023-09-13 14:49:02.287 +10:00 [INF] Received HTTP response headers after 509.6484ms - 404
+2023-09-13 14:49:02.293 +10:00 [INF] End processing HTTP request after 539.4724ms - 404
+2023-09-13 14:49:02.299 +10:00 [INF] UserName:xxx;yyy could not be found by Github API. No user info retrieved.
+2023-09-13 15:00:52.263 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 15:00:52.397 +10:00 [INF] Hosting environment: Development
+2023-09-13 15:00:52.405 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:10:28.141 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:10:28.184 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:10:28.187 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:11:09.175 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:11:09.217 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:11:09.222 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:15:20.995 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:15:21.040 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:15:21.043 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:16:47.244 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:16:47.278 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:16:47.281 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:18:15.959 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:18:16.002 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:18:16.005 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:18:39.414 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:18:39.475 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:18:39.478 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:19:03.371 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:19:03.409 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:19:03.412 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:20:45.274 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:20:45.313 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:20:45.316 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:27:40.880 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:27:40.933 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:27:40.936 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:29:08.148 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:29:08.196 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:29:08.199 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:29:26.936 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/tony
+2023-09-13 16:29:26.941 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/tony
+2023-09-13 16:29:27.541 +10:00 [INF] Received HTTP response headers after 584.95ms - 200
+2023-09-13 16:29:27.550 +10:00 [INF] End processing HTTP request after 620.817ms - 200
+2023-09-13 16:29:27.852 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/tom
+2023-09-13 16:29:27.857 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/tom
+2023-09-13 16:29:28.172 +10:00 [INF] Received HTTP response headers after 311.8006ms - 200
+2023-09-13 16:29:28.176 +10:00 [INF] End processing HTTP request after 323.921ms - 200
+2023-09-13 16:34:13.851 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:34:13.891 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:34:13.894 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:34:40.400 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/ton;kart
+2023-09-13 16:34:40.406 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/ton;kart
+2023-09-13 16:34:41.006 +10:00 [INF] Received HTTP response headers after 580.2473ms - 404
+2023-09-13 16:34:41.014 +10:00 [INF] End processing HTTP request after 627.2915ms - 404
+2023-09-13 16:34:41.024 +10:00 [INF] UserName:ton;kart could not be found by Github API. No user info retrieved.
+2023-09-13 16:35:06.284 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/ton
+2023-09-13 16:35:06.289 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/ton
+2023-09-13 16:35:06.583 +10:00 [INF] Received HTTP response headers after 290.3569ms - 200
+2023-09-13 16:35:06.587 +10:00 [INF] End processing HTTP request after 303.7268ms - 200
+2023-09-13 16:35:06.650 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/kart
+2023-09-13 16:35:06.653 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/kart
+2023-09-13 16:35:06.953 +10:00 [INF] Received HTTP response headers after 295.4207ms - 200
+2023-09-13 16:35:06.958 +10:00 [INF] End processing HTTP request after 306.4261ms - 200
+2023-09-13 16:36:12.297 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/ton
+2023-09-13 16:36:12.301 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/ton
+2023-09-13 16:36:12.708 +10:00 [INF] Received HTTP response headers after 402.4603ms - 200
+2023-09-13 16:36:12.712 +10:00 [INF] End processing HTTP request after 415.4222ms - 200
+2023-09-13 16:36:12.717 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/kart
+2023-09-13 16:36:12.721 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/kart
+2023-09-13 16:36:13.006 +10:00 [INF] Received HTTP response headers after 279.3136ms - 200
+2023-09-13 16:36:13.011 +10:00 [INF] End processing HTTP request after 293.749ms - 200
+2023-09-13 16:36:44.957 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/tony
+2023-09-13 16:36:44.972 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/tony
+2023-09-13 16:36:45.377 +10:00 [INF] Received HTTP response headers after 399.7751ms - 200
+2023-09-13 16:36:45.381 +10:00 [INF] End processing HTTP request after 423.2928ms - 200
+2023-09-13 16:36:45.386 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/kart
+2023-09-13 16:36:45.391 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/kart
+2023-09-13 16:36:45.676 +10:00 [INF] Received HTTP response headers after 281.5716ms - 200
+2023-09-13 16:36:45.680 +10:00 [INF] End processing HTTP request after 294.6662ms - 200
+2023-09-13 16:38:42.503 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:38:42.560 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:38:42.563 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:39:05.371 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:39:05.425 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:39:05.429 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:40:11.043 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:40:11.082 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:40:11.084 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:46:49.766 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:46:49.803 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:46:49.805 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:47:29.963 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:47:30.008 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:47:30.011 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:50:26.472 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:50:26.510 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:50:26.512 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:51:44.136 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:51:44.183 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:51:44.185 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:53:29.229 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:53:29.273 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:53:29.276 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:56:51.995 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:56:52.033 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:56:52.036 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:58:07.427 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:58:07.463 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:58:07.466 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 16:59:43.924 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 16:59:43.972 +10:00 [INF] Hosting environment: Development
+2023-09-13 16:59:43.976 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:10:30.159 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:10:30.199 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:10:30.203 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:12:49.758 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:12:49.822 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:12:49.826 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:14:48.279 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:14:48.315 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:14:48.318 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:16:04.685 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:16:04.750 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:16:04.753 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:17:47.644 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:17:47.683 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:17:47.687 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:18:26.864 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:18:26.900 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:18:26.902 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:22:15.487 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:22:15.578 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:22:15.583 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:22:34.221 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:22:34.257 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:22:34.260 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:23:45.207 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:23:45.278 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:23:45.284 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:30:19.233 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:30:19.281 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:30:19.284 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:31:26.040 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:31:26.117 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:31:26.120 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:36:53.283 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:36:53.331 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:36:53.334 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:38:28.777 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:38:28.824 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:38:28.827 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:38:45.480 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/xxx
+2023-09-13 17:38:45.490 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/xxx
+2023-09-13 17:38:46.109 +10:00 [INF] Received HTTP response headers after 605.5457ms - 200
+2023-09-13 17:38:46.116 +10:00 [INF] End processing HTTP request after 654.9807ms - 200
+2023-09-13 17:38:46.394 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/yyy
+2023-09-13 17:38:46.397 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/yyy
+2023-09-13 17:38:46.682 +10:00 [INF] Received HTTP response headers after 280.5416ms - 200
+2023-09-13 17:38:46.686 +10:00 [INF] End processing HTTP request after 292.4807ms - 200
+2023-09-13 17:47:48.049 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:47:48.115 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:47:48.117 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:48:59.655 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:48:59.699 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:48:59.702 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:51:04.800 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/tom
+2023-09-13 17:51:04.808 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/tom
+2023-09-13 17:51:05.380 +10:00 [INF] Received HTTP response headers after 558.9506ms - 200
+2023-09-13 17:51:05.385 +10:00 [INF] End processing HTTP request after 602.8514ms - 200
+2023-09-13 17:54:00.527 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:54:00.564 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:54:00.567 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:54:15.888 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/alias
+2023-09-13 17:54:15.896 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/alias
+2023-09-13 17:54:16.533 +10:00 [INF] Received HTTP response headers after 622.9833ms - 200
+2023-09-13 17:54:16.540 +10:00 [INF] End processing HTTP request after 670.7566ms - 200
+2023-09-13 17:57:07.016 +10:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-13 17:57:07.054 +10:00 [INF] Hosting environment: Development
+2023-09-13 17:57:07.056 +10:00 [INF] Content root path: C:\temp\MinimapAPIDemoByJiahuaTong
+2023-09-13 17:57:23.847 +10:00 [INF] Start processing HTTP request GET https://api.github.com/users/jap
+2023-09-13 17:57:23.856 +10:00 [INF] Sending HTTP request GET https://api.github.com/users/jap
+2023-09-13 17:57:24.475 +10:00 [INF] Received HTTP response headers after 601.0119ms - 200
+2023-09-13 17:57:24.482 +10:00 [INF] End processing HTTP request after 650.414ms - 200
