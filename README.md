@@ -1,5 +1,6 @@
 # GitHubUserInfoRetrieveApiDemo(.net core 7 MINIMAL API + MediatR)
 A demo[for code review] .net core web minimal api to retrieve github user info via github public api
+(UNDER DEBUG MODE RUN SWAGGER)
 
 The .NET Core 7 API Demo Project Description:
 This solution includes a .NET core 7 Minimal Webapi project that has an API endpoint called [HttpGet]GetUsersAsync.
