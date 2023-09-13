@@ -15,10 +15,10 @@ namespace MinimapAPIDemoByJiahuaTong.Query
                 _githubPublicApiService = githubPublicApiService;
         }
 
-        public Task<IEnumerable<GithubUserInfo>?> Handle(GetUsersQuery req, CancellationToken ctk)
+        public async Task<IEnumerable<GithubUserInfo>?> Handle(GetUsersQuery req, CancellationToken ctk)
         {
             ctk.ThrowIfCancellationRequested();
-            return _githubPublicApiService.GetUserInfoByUserNamesAsync(req.UserNames);
+            return await _githubPublicApiService.GetUserInfoByUserNamesAsync(req.UserNames).ConfigureAwait(false);
         }
     }
 }
